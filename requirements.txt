@@ -8,7 +8,7 @@ command-not-found==0.3
 debtagshw==0.1
 defer==1.0.6
 dirspec==13.10
-Django==1.5.12
+Django==1.11.28
 django-markdown-deux==1.0.5
 duplicity==0.7.1
 gyp==0.1

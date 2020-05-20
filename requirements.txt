@@ -13,7 +13,7 @@ django-markdown-deux==1.0.5
 duplicity==0.7.1
 gyp==0.1
 html5lib==0.999
-httplib2==0.9
+httplib2==0.18.0
 idna==0.9
 lockfile==0.8
 lxml==3.4.2
